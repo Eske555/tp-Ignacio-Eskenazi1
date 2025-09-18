@@ -34,9 +34,10 @@ p {
 }
 
 hr {
-    width: 50%;
+    width: 80%;
     border-top: 2px solid rgb(190, 143, 55);
-    margin-left: 24%;
+    margin-left: 10%;
+
 }
 
 
@@ -110,9 +111,9 @@ main section div {
 }
 
 .mascufem {
-    max-width: 450px;
-    margin-left: 40px;
-    margin-right: 40px;
+    max-width: 600px;
+    margin-left: 45px;
+    margin-right: 45%;
 }
 
 .producto {
