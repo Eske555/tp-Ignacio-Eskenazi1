@@ -111,9 +111,9 @@ main section div {
 }
 
 .mascufem {
-    max-width: 600px;
-    margin-left: 45px;
-    margin-right: 45%;
+    max-width: 405px;
+    margin-left: 80px;
+    margin-right: 80px;
 }
 
 .producto {
@@ -140,7 +140,7 @@ main section div {
 }
 
 .promos {
-    max-width: 450px;
+    max-width: 350px;
     margin: 5px;
     margin-left: 50px;
     margin-right: 50px;
